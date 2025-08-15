@@ -1,6 +1,6 @@
 # 哔哩哔哩规则
 
-```
+```yaml
 rule-providers:
   # 全部分流
 #  bilibili:
